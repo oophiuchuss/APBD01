@@ -6,3 +6,8 @@ double CalculateAverage(List<int> ToCalcualte)
 {
     return ToCalcualte.Average(); ;
 }
+
+int GetMax(List<int> ToFind)
+{
+    return ToFind.Max();
+}
