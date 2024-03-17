@@ -9,5 +9,6 @@ double CalculateAverage(List<int> ToCalcualte)
 
 int GetMax(List<int> ToFind)
 {
+
     return ToFind.Max();
 }
