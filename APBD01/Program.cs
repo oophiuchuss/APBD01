@@ -4,5 +4,6 @@ Console.WriteLine("Hello, World!");
 
 double CalculateAverage(List<int> ToCalcualte)
 {
+    Console.WriteLine("Average calculating. (main branch)");
     return ToCalcualte.Average(); ;
 }
